@@ -1,0 +1,16 @@
+{
+  "name": "tdd-07-04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "IsaacNascimento <isaacs.nascimento17@gmail.com.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "repository": "https://github.com/daniel-souza/devops-testes.git"
+}
